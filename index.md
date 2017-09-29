@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Welcome to GitHub Pages
+layout: home
+title: Home
 ---
 ## Welcome to GitHub Pages
 
