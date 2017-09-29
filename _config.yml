@@ -2,3 +2,9 @@ host: 0.0.0.0
 port: 4000
 theme: minima
 title: jekyll-test
+description: This is a description of the site.
+author: Jordan Goulder
+github_username: JordanGoulder
+header_pages:
+  - index.md
+  - about.md
